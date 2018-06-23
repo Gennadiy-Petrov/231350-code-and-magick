@@ -1,7 +1,8 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Геннадий Петров](https://up.htmlacademy.ru/javascript/14/user/231350).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Малинов]
+(https://htmlacademy.ru/profile/id40204).
 
 ---
 
